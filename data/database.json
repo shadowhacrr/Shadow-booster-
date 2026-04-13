@@ -1,0 +1,25 @@
+{
+  "requests": [],
+  "users": {},
+  "stats": {
+    "totalRequests": 0,
+    "totalFollowers": 0,
+    "totalLikes": 0,
+    "totalViews": 0,
+    "totalShares": 0,
+    "totalFavorites": 0,
+    "totalComments": 0
+  },
+  "settings": {
+    "cooldownSeconds": 60,
+    "dailyLimitPerIP": 10,
+    "freeQuantities": {
+      "followers": 25,
+      "hearts": 50,
+      "views": 100,
+      "shares": 10,
+      "favorites": 25,
+      "comments": 5
+    }
+  }
+}

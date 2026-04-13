@@ -1,0 +1,131 @@
+╔════════════════════════════════════════════════════════════════╗
+║           SHADOW BOOSTER v3.0 - SETUP GUIDE                    ║
+║           (100% FREE - JSON Database)                          ║
+╚════════════════════════════════════════════════════════════════╝
+
+🌐 LIVE DEMO: https://4kiavcokj6hlk.ok.kimi.link
+
+═══════════════════════════════════════════════════════════════════
+📂 FILES BAN GAYI HAIN:
+═══════════════════════════════════════════════════════════════════
+
+✅ index.html          - Beautiful Frontend (Modern Design)
+✅ server.js           - Backend (JSON Database)
+✅ package.json        - Dependencies
+✅ .env               - Configuration
+✅ data/database.json  - JSON Database (Auto-create)
+✅ README.md          - Full Documentation
+
+═══════════════════════════════════════════════════════════════════
+⚡ CHALANE KA TARIKA:
+═══════════════════════════════════════════════════════════════════
+
+STEP 1: Node.js Install Karein
+──────────────────────────────
+https://nodejs.org se download karein
+
+STEP 2: Dependencies Install Karein
+───────────────────────────────────
+Terminal mein:
+  cd shadow-booster
+  npm install
+
+STEP 3: Server Start Karein
+───────────────────────────
+  npm start
+
+STEP 4: Browser Mein Kholen
+───────────────────────────
+  http://localhost:3000
+
+═══════════════════════════════════════════════════════════════════
+🔑 FREE API KEY KAISE LEIN (Optional):
+═══════════════════════════════════════════════════════════════════
+
+1. https://rapidapi.com pe jayein
+2. FREE account banayein
+3. "TikTok API" search karein
+4. FREE plan subscribe karein
+5. API key copy karein
+6. .env file mein paste karein:
+
+   RAPIDAPI_KEY=your_api_key_here
+
+═══════════════════════════════════════════════════════════════════
+🌐 FREE DEPLOY KAISE KAREIN:
+═══════════════════════════════════════════════════════════════════
+
+RENDER.COM:
+1. render.com pe account
+2. GitHub repo connect
+3. Environment variables add karein
+4. Deploy!
+
+RAILWAY.APP:
+1. railway.app pe account
+2. GitHub connect
+3. Auto deploy
+
+═══════════════════════════════════════════════════════════════════
+📊 FREE QUANTITIES:
+═══════════════════════════════════════════════════════════════════
+
+Service         | Free Amount
+----------------|------------
+Followers       | 25
+Likes           | 50
+Views           | 100
+Shares          | 10
+Favorites       | 25
+Comments        | 5
+
+═══════════════════════════════════════════════════════════════════
+⚙️ LIMITS:
+═══════════════════════════════════════════════════════════════════
+
+- Cooldown: 60 seconds between requests
+- Daily Limit: 10 requests per IP per day
+- Rate Limit: 3 requests per minute
+
+═══════════════════════════════════════════════════════════════════
+💰 PAISA KAISE KAMAYE:
+═══════════════════════════════════════════════════════════════════
+
+1. Paid Packages Add Karein:
+   - 100 followers = $2
+   - 500 followers = $8
+   - 1000 followers = $15
+
+2. Ads Dikhayein (Free users ko)
+
+3. Premium Subscription:
+   - $5/month for unlimited
+
+═══════════════════════════════════════════════════════════════════
+🎨 CUSTOMIZATION:
+═══════════════════════════════════════════════════════════════════
+
+Colors Change Karein:
+- index.html mein CSS variables edit karein
+- --primary, --secondary, --accent
+
+Quantities Change Karein:
+- data/database.json mein "freeQuantities" edit karein
+
+Name Change Karein:
+- "Shadow Booster" ko apna naam karein
+
+═══════════════════════════════════════════════════════════════════
+📞 HELP:
+═══════════════════════════════════════════════════════════════════
+
+Agar problem ho toh:
+1. F12 console check karein
+2. node --version check karein
+3. npm install dubara karein
+
+═══════════════════════════════════════════════════════════════════
+
+🎉 AB AAPKI WEBSITE READY HAI! 🎉
+
+Koi bhi sawal ho toh pooch lein!
